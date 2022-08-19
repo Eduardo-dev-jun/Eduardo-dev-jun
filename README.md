@@ -1,4 +1,4 @@
-###👋 Ola, meu nome é Eduardo, tenho 21 anos.
+👋 Ola, meu nome é Eduardo, tenho 21 anos.
 
 -🌱 Estudante de Ciência da computação pela Universidade Estácio de Sá
  
