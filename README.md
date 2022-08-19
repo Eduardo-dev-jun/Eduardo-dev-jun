@@ -5,7 +5,7 @@
 - Previsão de formatura 12/2023
 
 
--🔭 Estágiario de processos e projetos
+-🔭 Estagiário de Processos e Projetos 
  
 - Minha primeira oportunidade de emprego 
  
